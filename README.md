@@ -236,5 +236,4 @@ Received = 5A
 
 **Wamiq Irfan**
 
-Final-Year Electronics Engineering Student
-NED University of Engineering & Technology, Karachi
+ASIC & RTL Engineer 
